@@ -1,8 +1,8 @@
-# Graphene Bandstructure Learning Repository
+# Graphene Bandstructure Learning
 
-This repository provides an **introductory, hands-on guide** for students and researchers learning about **graphene** and its most important electronic properties. It contains computational notebooks, JSON datasets, and symmetric k-paths used to generate bandstructure visualizations across different graphene stackings.
+This repository provides an **introductory** guide for students and researchers learning about **graphene** and its electronic properties. It contains computational notebooks, JSON datasets, and symmetric k-paths used to generate bandstructure visualizations across different graphene stackings.
 
-For a deeper, interactive explanation of the physics—complete with figures, sliders, and detailed notes—visit the companion website:
+For a deeper, interactive explanation of the tight-binding calculations and experimental methodologies with figures, sliders, and detailed notes, visit the companion website:
 
 **https://rhombo.sharpelab.science**
 
