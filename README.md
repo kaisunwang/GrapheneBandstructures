@@ -22,5 +22,5 @@ Each notebook contains:
 - Code to calculate interlayer-potential tuned tight-binding Hamiltonians  
 - Visualizations of dispersion along high-symmetry paths and in 3D 
 
-All plots are generated using Python (NumPy, SciPy, Matplotlib/Plotly, depending on the notebook).
+All plots are generated using Python (NumPy, SciPy, Matplotlib/Plotly).
 
