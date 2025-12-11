@@ -6,8 +6,6 @@ For a deeper, interactive explanation of the tight-binding calculations and expe
 
 **https://rhombo.sharpelab.science**
 
----
-
 ## Overview
 
 Graphene is a two-dimensional carbon material whose electronic properties depend strongly on its **layer number** and **stacking order**.  
@@ -23,8 +21,6 @@ Each notebook contains:
 - Bandstructure plots
 - Code to calculate interlayer-potential tuned tight-binding Hamiltonians  
 - Visualizations of dispersion along high-symmetry paths and in 3D 
-
----
 
 All plots are generated using Python (NumPy, SciPy, Matplotlib/Plotly, depending on the notebook).
 
